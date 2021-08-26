@@ -1,5 +1,5 @@
 # ASTR204JupyterAssignments
-Jupyter Notebook Assignments Used for ASTR204 (in Fall 2019 Semester at Haverford College)
+Jupyter Notebook Assignments Used for ASTR204 (in Fall 2019 and 2021 Semesters at Haverford College)
 
 To run these you need: 
 * matplotlib
@@ -16,3 +16,5 @@ Contents:
 * Example 20m Data reduction - how to load 21cm line data from the Skynet 20m at GBO into python for analysis (was part of a lab in the 2019 version of ASTR204). 
 
 For future use: Intro to Python by Colette Salyk: https://github.com/csalyk/python_tutorial/blob/master/python_tutorial.ipynb
+
+Also Python for Astronomers (free online textbook: https://prappleizer.github.io/index.html)
