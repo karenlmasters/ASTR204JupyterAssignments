@@ -6,6 +6,8 @@ To run these you need:
 * numpy
 * astropy
 
+I recommend using SciServer.org free online Jupyter Notebooks (student - you need to download from here and upload to Sciserver Compute Volume set up with the Astro packages, and these just work). 
+
 Contents: 
 * HW1 - learn basic file input and plotting using sunspot number data
 * HW2 - learn how to use python functions to make repeat calculations (example based on occupation numbers of atomic levels and using an astropy function to plot star positions)
