@@ -23,3 +23,6 @@ Reference: Python for Astronomers (free online textbook: https://prappleizer.git
 For future use: 
 * Intro to Python by Colette Salyk: https://github.com/csalyk/python_tutorial/blob/master/python_tutorial.ipynb
 * AstroEdu Package: https://github.com/astroDimitrios/astroedu 
+
+If you are a lecturer borrowing stuff from this for class and want my filled solutions, reach out at 
+ klmasters 'at' haverford.edu.
